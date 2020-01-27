@@ -9,7 +9,7 @@ Caroline McCain
 
 ## Responses to Readings
 
-1. 
+1. [Blumenstock Reading](https://github.com/caroline-mccain/workshop/blob/master/blumenstock.md) (January 27)
 
 ## Project 1
 
