@@ -1,4 +1,5 @@
 # Response to Blumenstock
 Caroline McCain
-
 January 27
+
+BLumenstock makes the argument that advances in data science hold promise for advancing development. This is because data would allow for more targeted aid distribution programs by using satellite imagery and social media data. However, he cautions that data is not the only answer. If making aid distribution decisions based soley on data, there is a chance of miscalculation. For example, using satellite imagery could lead people to try and fake the images. However, using data in combination traditional survey methods could improve distribution. Data science and this kind of computing power is exciting because of this potential to bring help tho those in need. But it is important to not lose sight of this goal. Good intentions mean nothing if you're doing more harm than good. Transparency is also critical when moving forward with data based aid projects. In the past, aid projects have been lacking transparency. However, it is especially critical when involving data becuase it will allow for more groups to target their projects for the best combination of resources. It is also important to remember that numbers and variables correspond to real people in real situations, which again should help reinforce making the best decisions with being the most helpful in mind.
