@@ -6,6 +6,7 @@ Caroline McCain
 
 1. Line Plot
 2. The Path of a Salesman Plot
+3. The Path of a Newspaper Deliveryman (Challenge)
 
 ## Responses to Readings
 
