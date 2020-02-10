@@ -1,0 +1,3 @@
+scale, disaggregation, administrative area, grid cells/rasters, uniform distribution, proportionate allocation
+
+The datasets used by these authors are used to map on a small-scale basis various phenomena related to dvelopment. This means that the details are related to things like rainfall and roadways, and are specific and accurate for small grids. These grids are populated by using census data within administrative areas, and then data from other sources like satellites is attached to these grids. Dividing the data down into smaller grids allows for more precise readings of development areas. This data is generally packaged together, but it can be taken apart and the layers can be manipulated as needed for various projects. 
