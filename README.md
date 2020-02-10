@@ -14,4 +14,4 @@ Caroline McCain
 
 ## Project 1
 
-1. ...
+1. Map of Mongolia
