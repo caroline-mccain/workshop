@@ -13,6 +13,6 @@ Caroline McCain
 1. [Blumenstock Reading](https://github.com/caroline-mccain/workshop/blob/master/blumenstock.md) (January 27)
 2. [Lloyd et al. Reading](https://github.com/caroline-mccain/workshop/blob/master/lloyd.md) (February 10)
 
-## Project 1
+## Project
 
-1. Map of Mongolia
+1. [Project 1](https://github.com/caroline-mccain/workshop/blob/master/Project1.md)
