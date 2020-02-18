@@ -14,6 +14,6 @@ Caroline McCain
 2. [Lloyd et al. Reading](https://caroline-mccain.github.io/workshop/lloyd) (February 10)
 3. [Wardrop et al. Reading](https://caroline-mccain.github.io/workshop/Wardrop) (February 17)
 
-## Project
+## Projects
 
 1. [Project 1](https://caroline-mccain.github.io/workshop/Project1)
