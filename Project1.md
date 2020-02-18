@@ -2,8 +2,7 @@
 
 ## Part 1: Adminstrative Subdivisions
 ![](mongolia.png)
-
-![](Khovsgol.png)
+![](Kovsgol.png)
 
 ## Part 2: Populations
 
