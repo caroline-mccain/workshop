@@ -10,10 +10,10 @@ Caroline McCain
 
 ## Responses to Readings
 
-1. [Blumenstock Reading](https://github.com/caroline-mccain/workshop/blob/master/blumenstock.md) (January 27)
-2. [Lloyd et al. Reading](https://github.com/caroline-mccain/workshop/blob/master/lloyd.md) (February 10)
-3. [Wardrop et al. Reading](https://github.com/caroline-mccain/workshop/blob/master/Wardrop.md) (February 17)
+1. [Blumenstock Reading](https://caroline-mccain.github.io/workshop/blumenstock) (January 27)
+2. [Lloyd et al. Reading](https://caroline-mccain.github.io/workshop/lloyd) (February 10)
+3. [Wardrop et al. Reading](https://caroline-mccain.github.io/workshop/Wardrop) (February 17)
 
 ## Project
 
-1. [Project 1](https://github.com/caroline-mccain/workshop/blob/master/Project1.md)
+1. [Project 1](https://caroline-mccain.github.io/workshop/Project1)
