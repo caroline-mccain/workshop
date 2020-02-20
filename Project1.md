@@ -6,6 +6,7 @@ The purpose of this part was to create a map with the adminstrative subdivisions
 ![](Kovsgol.png)
 
 ## Part 2: Populations
+In this part of the project, we added a population layer from a raster to our previously created maps. Since Mongolia is so geographically large, I took a subset of the country, Khovsgol, to use throughout the project. The first two plots are just the population added to the international border. The next two are different heat maps of Khovsgol. The first is just the population, and the second is the log of the population. The biggest challenge I ran into had to do with saving things and reloading them versus inadvertantly re-running things. I also had my computer in a power saving mode that overrode attempts at parallel processing, which I did not realize at first. But, once I realized this and how to save data frames to reload instead of recalculate things went faster. 
 ![](mng_pop.png)
 ![](khovpopplot.png)
 ![](khovsgolHeatFinal.png)
