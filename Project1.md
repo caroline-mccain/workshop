@@ -12,3 +12,4 @@ The purpose of this part was to create a map with the adminstrative subdivisions
 ![](khovsgolLogHeatFinal.png)
 
 ## Part 3: Geometric Bar Plot
+![](MongoliaFinal.png)
