@@ -14,6 +14,6 @@ In this part of the project, we added a population layer from a raster to our pr
 
 ## Part 3: Geometric Bar Plot
 The final step of the project involved matching the heat map of the region with a bar graph of the populations. Population density for each district was also calculated and added on to the map. The biggest challenge with this part of the project was typing things correctly and making sure I had the variables named correctly to display everything.
-![](MongoliaFinal.png)
+![](KhovsgolFinal.png)
 
 
