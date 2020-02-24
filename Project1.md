@@ -15,7 +15,7 @@ The biggest challenge I ran into had to do with saving things and reloading them
 ![](khovsgolLogHeatFinal.png)
 
 ## Part 3: Geometric Bar Plot
-The final step of the project involved matching the heat map of the region with a bar graph of the populations. Population density for each district was also calculated and added on to the map. The bar graph shows the stark differences in population between the city, Moron, and the rest of Khovsgol.
+The final step of the project involved matching the heat map of the region with a bar graph of the populations. Population density for each district was also calculated and added on to the map. The bar graph shows the stark differences in population between the city, Moron, and the rest of Khovsgol. The population density values listed on the map also reflect the difference. Most of the districts have a population density around 1.5 people/km^2, whereas Moron's is almost 155 people/km^2. For reference, Virgina's population density is 202.6 people/mi^2 (converted: 78.2 people/km^2).
 The biggest challenge with this part of the project was typing things correctly and making sure I had the variables named correctly to display everything.
 ![](KhovsgolFinal.png)
 
