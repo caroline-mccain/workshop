@@ -13,6 +13,7 @@ Caroline McCain
 1. [Blumenstock Reading](https://caroline-mccain.github.io/workshop/blumenstock) (January 27)
 2. [Lloyd et al. Reading](https://caroline-mccain.github.io/workshop/lloyd) (February 10)
 3. [Wardrop et al. Reading](https://caroline-mccain.github.io/workshop/Wardrop) (February 17)
+4. [Stevens et al. Reading](https://caroline-mccain.github.io/workshop/Stevens) (March 2)
 
 ## Projects
 
