@@ -18,3 +18,4 @@ Caroline McCain
 ## Projects
 
 1. [Project 1](https://caroline-mccain.github.io/workshop/Project1)
+2. [Project 2](https://caroline-mccain.github.io/workshop/Project2)
