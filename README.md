@@ -1,4 +1,4 @@
-# Catalog 
+# Catalog
 
 Caroline McCain
 
@@ -14,6 +14,7 @@ Caroline McCain
 2. [Lloyd et al. Reading](https://caroline-mccain.github.io/workshop/lloyd) (February 10)
 3. [Wardrop et al. Reading](https://caroline-mccain.github.io/workshop/Wardrop) (February 17)
 4. [Stevens et al. Reading](https://caroline-mccain.github.io/workshop/Stevens) (March 2)
+5. [Nieves et al. Reading](https://caroline-mccain.github.io/workshop/Nieves) (March 25)
 
 ## Projects
 
