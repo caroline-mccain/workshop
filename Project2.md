@@ -11,5 +11,6 @@ I then decided that in order to make a more accurate prediction while still expl
 ![](waterandtopo.png)
 ### Slope
 The final variable I explored individually was slope, for the same reasons mentioned above. Again, it did not prove to be reliable on its own. But, when combining slope data with topography and water data, the linear model is much more accurate.
+![](finalSlope.png)
 ### All
-The following are the results for combining all land use and land cover variables. 
+The following are the results for combining all land use and land cover variables.
