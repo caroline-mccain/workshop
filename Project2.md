@@ -14,3 +14,5 @@ The final variable I explored individually was slope, for the same reasons menti
 ![](finalSlope.png)
 ### All
 The following are the results for combining all land use and land cover variables.
+
+## Part 2: Modeling and Predicting Spatial Values
