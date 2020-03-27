@@ -1,7 +1,7 @@
 # Project 2: Investigating Land Use and Land Cover - Mongolia
 
 ## Part 1: Histograms with Density Plots and Linear Models
-This part of the project involved taking land use and land cover variables and using them to make predictions of population values.
+This part of the project involved taking land use and land cover variables and using them to make predictions of population values. Add histograms here.
 ### Water
 I first made a model of just water source variables to predict the population of Khovsgol. I chose to start with just water because of Mongolia's history of having a nomadic population, and water sources would be one factor driving movement. Additionally, most major cities were developed along waterways. However, using just the one variable was not very accurate. This inaccuracy is highlighted in the distorted shape of the linear model. Additionally,
 ![](finalWater.png)
