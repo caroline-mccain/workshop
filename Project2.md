@@ -8,8 +8,8 @@ I first made a model of just water source variables to predict the population of
 ### Topo
 I then decided that in order to make a more accurate prediction while still exploring variables, I looked at topography. Again, topography would have played an important role in the history of Mongolia. Again, just using the one does not yield very accurate results. However, the linear model that combines water values and topography values is much more accurate than either of the single variables alone.
 ![](finalTopo.png)
-![](WaterPlusTopo.png)
-1[](watertopofit.png)
+![](water28topo.png)
+![](watertopofit.png)
 ### Slope
 The final variable I explored individually was slope, for the same reasons mentioned above. Again, it did not prove to be reliable on its own. But, when combining slope data with topography and water data, the linear model is much more accurate.
 ![](finalSlope.png)
@@ -17,6 +17,7 @@ The final variable I explored individually was slope, for the same reasons menti
 ![](watertoposlopefit.png)
 ### All
 The following are the results for combining all land use and land cover variables.
+![](allvarspart1.png)
 
 ## Part 2: Modeling and Predicting Spatial Values
 In this part of the project, the dependent variable is the actual population. This value is being predicted by the geospatial covariates discussed and explored in the first part of the project.
