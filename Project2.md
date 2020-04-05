@@ -1,7 +1,7 @@
 # Project 2: Investigating Land Use and Land Cover - Mongolia
 
 ## Part 1: Histograms with Density Plots and Linear Models
-This part of the project involved taking land use and land cover variables and using them to make predictions of population values. First, for reference, these are histograms of the population and density of Khovsgol.
+This part of the project involved taking land use and land cover variables and using them to make predictions of population values. (This was done using land use and land cover variables from 2015 and population values from 2019 due to the fact that the 2015 population values would not download. However, the population does not seem to be growing drastically in any direction.) First, for reference, these are histograms of the population and density of Khovsgol.
 ![](popHisto.png)
 This shows that the majority of ADM subdivisions within Khovsgol have a population below 10,000, and only one ADM subdivision is over that, with a population of > 30,000.
 ![](densityPop.png)
@@ -30,4 +30,13 @@ The following are the results for combining all land use and land cover variable
 Again, the r^2 value is quite low, at .22. The correlation shown in the linear model is much improved when all of the variables are used. A low correlation would be expected, given the nature of Mongolia. The total population of Khovsgol is 132,146 as of 2017. This leads to a population density of 1.36 people/km^2 throughout the province. However, the capital city, Moron, has a population of 39,404 which is about 30% of the population of the province. As I noted last time, the population density grows about tenfold when you're considering just that city. However, even with these considerations in mind, the r^2 value is quite low. The great variety in terrain, the presence of nomadic populations, and the large Lake Khovsgol could all contribute to the inaccuracy of this model. I think the biggest cause is nomadic people, due to the fact that yurts probably don't show up when looking at built land satellite data and that they would not contribute much in terms of night time light values.
 
 ## Part 2: Modeling and Predicting Spatial Values
-In this part of the project, the dependent variable is the actual population. This value is being predicted by the geospatial covariates discussed and explored in the first part of the project.
+In this part of the project, the dependent variable is the actual population. This value is being predicted by the geospatial covariates discussed and explored in the first part of the project. First, I looked at Khovsgol as a whole.
+![](khovDiff.png)
+![](khovDiffMap.png)
+These two images show the difference in accuracy between the predicted population and the actual population of Khovsgol. For the most part, the map is accurate. However, if you look at a 3D plot of the area, it becomes clear that there is a problematic spot, where the accuracy decreases and the population is being underpredicted.
+![](khov3D.png)
+This would be the city of Moron, which is the capital of the province. It was greatly underpredicted by the model. Because Mongolia does not have ADM3 boundaries, I could not subset this data further to see differences clearly within the city.
+![](MoronDiff.png)
+![](moronDiffMap.png)
+However, even without ADM3 values, you can still see that the underprediction gets worse in the center of the city due to the gridcelled approach to prediction.
+![](moron3D.png)
