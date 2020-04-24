@@ -21,3 +21,5 @@ Caroline McCain
 1. [Project 1](https://caroline-mccain.github.io/workshop/Project1)
 2. [Project 2](https://caroline-mccain.github.io/workshop/Project2)
 3. [Project 3](https://caroline-mccain.github.io/workshop/Project3)
+4. [Project 4](https://caroline-mccain.github.io/workshop/Project4)
+5. [Final Project](https://caroline-mccain.github.io/workshop/FinalProject)
