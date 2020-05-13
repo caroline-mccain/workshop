@@ -36,9 +36,12 @@ For this part of the project, I switched to focusing on the Darhan-Uul aimag. I 
 ![](full_adm_filtered.png)
 The above map shows the urban areas, their relative populations and densities. The map below shows where roads and healthcare facilities are located within the region. The darkest purple road that is the largest main road in the region, classified as a trunk road. The smaller, lighter purple roads are classified as roads, tracks, secondary roads, tertiary roads, and service roads. Hospital facilities are shown as blue dots, and dentists are orange.
 ![](full_hcf_roads_legends.png)
-This map makes it seem that the less urbanized areas are drastically underserved. The roads do not appear to reach throughout the region to provide connections, and the healthcare facilities are only located within urban areas. 
+This map makes it seem that the less urbanized areas are drastically underserved. The roads do not appear to reach throughout the region to provide connections, and the healthcare facilities are only located within urban areas. However, when looking at this data within a topographical context, it makes more sense.
 ![](5.13.3D.HCF.Roads.png)
+This 3D plot overlays the roads and healthcare facilities plot on top of the topographical features of the region. This region of Mongolia is clearly mountainous, and the urban areas are located within valleys. The roads traverse the valleys and reach into the mountains, but do not fully cover them. When examining the topographical context, the level of access to healthcare and roads makes more sense.
+
 **For more information, see [Project 3](https://caroline-mccain.github.io/workshop/Project3) and
 [Project 4](https://caroline-mccain.github.io/workshop/Project4).**
 
 ## Final Thoughts
+The biggest challenge to progress in development in Mongolia is the topography. Mountainous regions are hard to reach, and Mongolia is quite mountainous. Despite this, I think that Mongolia is fairly well developed. The capital city has a population over a million. And though access to healthcare might be challenging for those living in the more remote regions, it is still an availability. Furthermore, I don't think that building more hospitals in more remote regions would be an appropriate step forward in developing the country further. I think that Mongolia would benefit more from physical infrastructure projects, like building roads. This would allow for easier access to existing healthcare. It would also encourage traveling healthcare practices and further integrate the country, which would help with economic development. Despite the fact that there is still work to be done, Mongolia is fairly well-developed when compared to its neighbors in the central Asian region.
