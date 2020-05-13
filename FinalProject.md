@@ -19,9 +19,14 @@ This first map shows the population of Mongolia across the entire country, illus
 When using all of the available topographic, slope, water, and land cover data to estimate a model of the population, it is not very accurate. The r^2 value is approximately .22.
 ![](allvarspart1.png)
 This inaccuracy is likely due to the variety of terrain in the region and the nomadic and semi-nomadic lifestyles of the Mongolian people.
-![](khowDiffMap.png)
-The above map shows that the errors in the population model are primarily underpredictions in the city of Moron. These errors are likely due to problems with the gridcelled approach when looking at urban buidlings. Nevertheless, the population of Khovsgol is quite rural, as shown by the plot below. This pattern of having an aimag capital that is densely populated and a sparsely populated surrounding area is repeated throughout Mongolia, which leads to challenges with development. 
+![](khovDiffMap.png)
+The above map shows that the errors in the population model are primarily underpredictions in the city of Moron. This problem is clearly shown by a 3D plot of Khovsgol.
+![](khov3D.png)
+Because a next level of administrative subdivision was not available for Mongolia, the City of Moron cannot be further investigated to determine a more specific reason for this discrepancy.
+![](moronDiffMap.png)
+Consequently, the best judgement is that these errors are due to problems with the gridcelled approach when looking at urban buidlings. The low population density in outlying areas makes it easier to make spatially accurate predictions. In the city, however, it is a small population with a high population density. Nevertheless, the majority of the population of Khovsgol is quite rural, as shown by the plot below.
 ![](khovpopplot.png)
+This pattern of having an aimag capital that is densely populated and a sparsely populated surrounding area is repeated throughout Mongolia, which leads to challenges with development.
 
 **For more information, see [Project 1](https://caroline-mccain.github.io/workshop/Project1) and [Project 2](https://caroline-mccain.github.io/workshop/Project2).**
 
