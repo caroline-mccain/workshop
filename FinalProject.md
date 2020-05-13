@@ -14,7 +14,8 @@ Darhan-Uul is a province in the north of Mongolia. It is subdivided into four su
 
 ## Population
 ![](mng_pop.png)
-This first map shows the population of Mongolia across the entire country, illustrating that it is quite sparsely populated except for a few cities. Mongolia's total population is 3,186,026 people, but the capital city Ulaanbatar has a population of 1,584,000. The rest of my population inquiries focused on Khovsgol, which has a population of 132,146. Most of that population is concentrated in the city of Moron, which has a population of 39,404.
+This first map shows the population of Mongolia across the entire country, illustrating that it is quite sparsely populated except for a few cities. Mongolia's total population is 3,186,026 people, but the capital city Ulaanbatar alone has a population of 1,584,000. This sets up a pattern of dense urban areas and sparse rural areas. The rural areas dominate the country physically.
+The rest of my population inquiries focused on Khovsgol, which has a population of 132,146. Most of that population is concentrated in the city of Moron, which has a population of 39,404.
 ![](khovsgolHeatFinal.png)
 When using all of the available topographic, slope, water, and land cover data to estimate a model of the population, it is not very accurate. The r^2 value is approximately .22.
 ![](allvarspart1.png)
@@ -31,10 +32,13 @@ This pattern of having an aimag capital that is densely populated and a sparsely
 **For more information, see [Project 1](https://caroline-mccain.github.io/workshop/Project1) and [Project 2](https://caroline-mccain.github.io/workshop/Project2).**
 
 ## Human Settlements, Roadways, and Health Care Facilities
-**to include**
-1. density plots
-2. urban areas
-3. map with roads
-4. 3d plots
+For this part of the project, I switched to focusing on the Darhan-Uul aimag. I joined the Darhan-Uul aimag with the sums of Khushaat and Saykhan. This is a geographically small region that has a few urbanized areas. Darkhan-Uul has a population of 101,879. Khushaat has a population of 1,585 and Saykhan has a population of 8,285.
+![](full_adm_filtered.png)
+The above map shows the urban areas, their relative populations and densities. The map below shows where roads and healthcare facilities are located within the region. The darkest purple road that is the largest main road in the region, classified as a trunk road. The smaller, lighter purple roads are classified as roads, tracks, secondary roads, tertiary roads, and service roads. Hospital facilities are shown as blue dots, and dentists are orange.
+![](full_hcf_roads_legends.png)
+This map makes it seem that the less urbanized areas are drastically underserved. The roads do not appear to reach throughout the region to provide connections, and the healthcare facilities are only located within urban areas. 
+![](5.13.3D.HCF.Roads.png)
 **For more information, see [Project 3](https://caroline-mccain.github.io/workshop/Project3) and
 [Project 4](https://caroline-mccain.github.io/workshop/Project4).**
+
+## Final Thoughts
